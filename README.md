@@ -10,6 +10,6 @@ So far, we can get csv out of a downloaded version of this first page.
 
 Next steps:
 
-* to get it straight off the web
+* to get it straight off the web (Done 08.11.2016)
 * to navigate to the next 9 pages, and extract each page
 
