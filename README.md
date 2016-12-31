@@ -4,7 +4,7 @@ This `standards.py` Python script is a simple web scraper that goes to [jazzstan
 
 [This](http://www.jazzstandards.com/compositions/index.htm) is the first page (of 10) of the site that contains the information we wish to extract. As you can see, the data is in a straightforward HTML table. This script uses [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/), make sure it is installed before you run it.
 
-Usage:
+##Usage
 
     python standards.py
 
